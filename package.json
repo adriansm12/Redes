@@ -1,0 +1,19 @@
+{
+    "name": "RedesNode",
+    "main": "main.js",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "adria",
+    "contributors": [],
+    "dependencies": {
+        "activedirectory": "^0.7.2",
+        "cors": "^2.8.5",
+        "express": "^4.18.1"
+    }
+}
